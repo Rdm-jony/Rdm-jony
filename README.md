@@ -39,7 +39,6 @@ I love learning new technologies and constantly improving my skills in modern we
 
 ---
 
-## Languages and Tools
 ## 🛠 Tech Stack
 
 | Category             | Technologies |
@@ -58,6 +57,15 @@ I love learning new technologies and constantly improving my skills in modern we
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=rdm-jony&show_icons=true&theme=react&hide_border=true" alt="Jony's GitHub Stats"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdm-jony&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
 </p>
+
+## 📌 Pinned Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Health Care**](https://github.com/Rdm-jony/health_care_frontend) | A full-stack healthcare app for doctor appointments, patient booking, and management. | React, Node.js, Express, MongoDB, PostgreSQL |
+| [**Digital Wallet Backend**](https://github.com/Rdm-jony/digital-wallet-backend) | A role-based digital wallet system with JWT auth, transactions (top-up, cash-out, send), and admin controls. | Node.js, Express, TypeScript, MongoDB |
+| [**Portfolio**](https://github.com/Rdm-jony/portfolio) | Personal portfolio website showcasing my projects, skills, and experience. | React, TailwindCSS, Firebase |
+
 
 
 
