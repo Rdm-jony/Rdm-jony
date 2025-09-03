@@ -40,7 +40,7 @@ I love learning new technologies and constantly improving my skills in modern we
 ---
 
 ## Languages and Tools
-<p align="left"> 
+<p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
@@ -87,3 +87,13 @@ I love learning new technologies and constantly improving my skills in modern we
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
 </p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rdm-jony&show_icons=true&theme=react&hide_border=true" alt="Jony's GitHub Stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdm-jony&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
+</p>
+
+
+
