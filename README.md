@@ -1,3 +1,5 @@
+![Banner](./banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Jony</h1>
 <h3 align="center">Building scalable web apps with React, Node.js, MongoDB & PostgreSQL</h3>
 
