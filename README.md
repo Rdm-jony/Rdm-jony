@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdm-jony&label=Profile%20views&color=0e75b6&style=flat" alt="rdm-jony" /> </p>
 
-- 🔭 I’m currently working on [**Health Care** – Building a full-stack MERN application for booking doctor appointments with authentication and scheduling features.](https://github.com/Rdm-jony/health_care_frontend)
+- 🔭 I’m currently working on [**Health Care**](https://github.com/Rdm-jony/health_care_frontend)
 
 - 🌱 I’m currently learning **LangGraph**
 
