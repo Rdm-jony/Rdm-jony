@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="Banner" height="400px">
+  <img src="./banner.png" alt="Banner">
 </p>
 <h1 align="center">Hi 👋, I'm Jony</h1>
 <h3 align="center">Building scalable web apps with React, Node.js, MongoDB & PostgreSQL</h3>
