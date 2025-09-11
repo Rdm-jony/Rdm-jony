@@ -51,13 +51,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-## 📌 Pinned Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Health Care**](https://github.com/Rdm-jony/health_care_frontend) | A full-stack healthcare app for doctor appointments, patient booking, and management. | React, Node.js, Express, MongoDB, PostgreSQL |
-| [**Digital Wallet Backend**](https://github.com/Rdm-jony/digital-wallet-backend) | A role-based digital wallet system with JWT auth, transactions (top-up, cash-out, send), and admin controls. | Node.js, Express, TypeScript, MongoDB |
-| [**Portfolio**](https://github.com/Rdm-jony/portfolio) | Personal portfolio website showcasing my projects, skills, and experience. | React, TailwindCSS, Firebase |
 
 
 
